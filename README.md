@@ -1,6 +1,6 @@
-### BS Detector Proof-of-concept
+## BS Detector Proof-of-concept
 
-## Overview
+### Overview
 This code is inspired by Google's recent issues with the AI summary. 
 Links:
 * [Google’s AI Overview Appears To Produce Misleading Answers](https://www.forbes.com/sites/siladityaray/2024/05/24/googles-ai-overview-appears-to-produce-misleading-answers/?sh=598e97732252)
